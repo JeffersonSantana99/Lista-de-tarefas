@@ -10,15 +10,6 @@ body {
   background-color: #f9f9f9;
 }
 
-.title {
-  text-align: center;
-  margin-bottom: 50px;
-}
-
-.title h2 {
-  margin: 0;
-}
-
 .content {
   background-color: #fff;
   padding: 20px;
